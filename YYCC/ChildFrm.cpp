@@ -1,5 +1,6 @@
 // ChildFrm.cpp : implementation of the CChildFrame class
 //
+//hello
 
 #include "stdafx.h"
 #include "YYCC.h"
